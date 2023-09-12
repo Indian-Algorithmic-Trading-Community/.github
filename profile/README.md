@@ -11,3 +11,16 @@
 🍿 Fun facts - what does your team eat for breakfast?
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+#### License
+
+<sup>
+Licensed under either of <a href="../LICENSE-APACHE">Apache License, Version
+2.0</a> or <a href="../LICENSE-MIT">MIT license</a> at your option.
+</sup>
+
+<br>
+
+<sub>
+Unless you explicitly state otherwise, any contribution intent
